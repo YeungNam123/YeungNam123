@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**YeungNam123/YeungNam123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+나는 영남대학교 컴퓨터공학과에 입학한 22310480 최민규이다.
 
-Here are some ideas to get you started:
+##Career
+고졸, 영대컴공 재학중
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Links
+email-mingyuc692@gmail.com
+
+##avilable programming language
+c
+c++
+pyhon
+
+##prefer subject
+백엔드
+프론트엔드
+
+##available operating system
+윈도우11, 윈도우10, 윈도우7
