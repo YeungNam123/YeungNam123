@@ -13,7 +13,7 @@ c
 c++
 pyhon
 
-##prefer subject
+##subject preferation
 백엔드
 프론트엔드
 
