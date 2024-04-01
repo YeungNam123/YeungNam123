@@ -20,4 +20,4 @@ pyhon
 ##available operating system
 윈도우11, 윈도우10, 윈도우7
 
-#FFCD00
+
