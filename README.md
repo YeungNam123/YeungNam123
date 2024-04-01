@@ -6,7 +6,7 @@
 고졸, 영대컴공 재학중
 
 ##Links
-email-mingyuc692@gmail.com
+email- mingyuc692@gmail.com
 
 **##avilable programming language**
 c
