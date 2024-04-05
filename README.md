@@ -7,12 +7,12 @@
 2. 영남대학교 컴퓨터공학과 재학중
 
 ## Links
-My email- mingyuc692@gmail.com
-My department website- https://cse.yu.ac.kr
+- My email- mingyuc692@gmail.com
+- My department website- https://cse.yu.ac.kr
 
 ## Available programming language
-**1. c**
-**2. c++**
+1. **c**
+2. **c++**
 3. python
 
 ## Job objectives
