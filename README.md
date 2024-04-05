@@ -9,9 +9,9 @@
 email- mingyuc692@gmail.com
 
 ## **available programming language**
-c
-c++
-pyhon
+1. c
+2. c++
+3. python
 
 ## Job Objectives
 웹 개발(백엔드,프론트엔드), 게임개발
