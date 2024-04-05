@@ -1,16 +1,18 @@
 
 ## Introduction
-저는 영남대학교 컴퓨터공학과에 입학한 22310480 최민규입니다.
+저는 한국에서 살고 있고 경산에 위치한 영남대학교 컴퓨터공학과를 다니고 있는 최민규입니다.
 
 ## Career
-인문계 고등학교 졸업, 영남대학교 컴퓨터공학과 재학중
+1. 인문계 고등학교 졸업
+2. 영남대학교 컴퓨터공학과 재학중
 
 ## Links
-email- mingyuc692@gmail.com
+My email- mingyuc692@gmail.com
+My department website- https://cse.yu.ac.kr
 
 ## Available programming language
-1. **c**
-2. **c++**
+**1. c**
+**2. c++**
 3. python
 
 ## Job objectives
