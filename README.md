@@ -8,15 +8,18 @@
 ## Links
 email- mingyuc692@gmail.com
 
-## **available programming language**
-1. c
-2. c++
+## Available programming language
+1. **c**
+2. **c++**
 3. python
 
-## Job Objectives
-웹 개발(백엔드,프론트엔드), 게임개발
+## Job objectives
+1. 웹 개발(백엔드,프론트엔드)
+2. 게임개발
 
-## available operating system
-윈도우11, 윈도우10, 윈도우7
+## Available operating system
+1. 윈도우11
+2. 윈도우10
+3. 윈도우7
 
 
